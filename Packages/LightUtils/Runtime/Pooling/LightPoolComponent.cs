@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Assets.LightUtils.Invoking;
+using LightUtils.Invoking;
 using UnityEngine;
 
-namespace Assets.LightUtils.Pooling
+namespace LightUtils.Pooling
 {
   public class LightPoolComponent : MonoBehaviour
   {

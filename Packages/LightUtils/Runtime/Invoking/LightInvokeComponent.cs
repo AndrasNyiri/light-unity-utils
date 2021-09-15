@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Assets.LightUtils.Invoking
+namespace LightUtils.Invoking
 {
   public class LightInvokeComponent : MonoBehaviour
   {

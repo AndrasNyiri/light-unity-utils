@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Assets.LightUtils.Curve.Demo
+namespace LightUtils.Curve.Demo
 {
   public class QuadraticSplineDemo : MonoBehaviour
   {

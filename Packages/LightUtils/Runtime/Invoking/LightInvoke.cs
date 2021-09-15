@@ -2,7 +2,7 @@
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Assets.LightUtils.Invoking
+namespace LightUtils.Invoking
 {
   public static class LightInvoke
   {

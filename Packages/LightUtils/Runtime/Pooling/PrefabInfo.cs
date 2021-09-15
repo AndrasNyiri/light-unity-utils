@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Assets.LightUtils.Pooling
+namespace LightUtils.Pooling
 {
   [Serializable]
   public class PrefabInfo

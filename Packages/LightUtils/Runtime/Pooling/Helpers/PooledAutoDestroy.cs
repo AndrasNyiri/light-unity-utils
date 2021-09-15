@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Assets.LightUtils.Pooling.Helpers
+namespace LightUtils.Pooling.Helpers
 {
   public class PooledAutoDestroy : MonoBehaviour
   {

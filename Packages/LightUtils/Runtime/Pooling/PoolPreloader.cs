@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
 
-namespace Assets.LightUtils.Pooling
+namespace LightUtils.Pooling
 {
   public class PoolPreloader : MonoBehaviour
   {

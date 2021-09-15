@@ -1,6 +1,6 @@
 using System;
 
-namespace Assets.LightUtils.Event
+namespace LightUtils.Event
 {
   public class CalledEvent
   {

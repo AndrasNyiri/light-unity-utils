@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assets.LightUtils.Invoking
+namespace LightUtils.Invoking
 {
   public class Invokable : ITickable
   {

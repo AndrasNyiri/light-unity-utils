@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Assets.LightUtils.Curve
+namespace LightUtils.Curve
 {
   public struct SplinePointData
   {

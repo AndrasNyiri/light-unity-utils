@@ -1,0 +1,16 @@
+{
+  "name": "light-flux.light-unity-utils",
+  "version": "1.0.0",
+  "displayName": "Light Utils",
+  "description": "Easy to use utilities for Unity",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [],
+  "author": {
+    "name": "Andr\u00e1s Nyiri",
+    "email": "",
+    "url": ""
+  },
+  "type": "library"
+}

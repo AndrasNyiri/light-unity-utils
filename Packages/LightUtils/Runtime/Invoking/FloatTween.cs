@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Assets.LightUtils.Invoking
+namespace LightUtils.Invoking
 {
   public class FloatTween : Tween<float>
   {

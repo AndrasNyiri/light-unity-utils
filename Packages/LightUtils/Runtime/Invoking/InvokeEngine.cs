@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Assets.LightUtils.Invoking
+namespace LightUtils.Invoking
 {
   public class InvokeEngine
   {

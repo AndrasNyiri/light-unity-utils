@@ -1,4 +1,4 @@
-﻿namespace Assets.LightUtils.Invoking
+﻿namespace LightUtils.Invoking
 {
   public interface ITickable
   {
